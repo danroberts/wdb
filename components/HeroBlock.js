@@ -1,3 +1,3 @@
 export default function HeroBlock({children}) {
-  return <p className="p-6 text-center">{children}</p>
+  return <p className="text-base p-4 text-center">{children}</p>
 }
